@@ -1,0 +1,10 @@
+[book]
+title = "Rust Design Patterns"
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/dcoles/rust-design-patterns"
+edit-url-template = "https://github.com/dcoles/rust-design-patterns/edit/main/{path}"
